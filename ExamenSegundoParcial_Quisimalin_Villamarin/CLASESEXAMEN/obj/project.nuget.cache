@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0E1j9VwG7cky4nvT80jwq9yF4AV2uZwxUVdPuwO65jP0B/WRnY+idsLy4RU3gfu1va3Hfe4qcM4ftwbMU9710g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joss\\Documents\\ESPE\\Redes y Telecomunicacion\\Segundo\\Programacion Visual\\Segundo Parcial\\Ejercicios en Visual\\CLASESEXAMEN\\CLASESEXAMEN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joss\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Joss\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

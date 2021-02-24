@@ -1,0 +1,9 @@
+C:\Users\Joss\Documents\ESPE\Redes y Telecomunicacion\Segundo\Programacion Visual\Segundo Parcial\Ejercicios en Visual\CLASESEXAMEN\bin\Debug\netstandard2.0\CLASESEXAMEN.deps.json
+C:\Users\Joss\Documents\ESPE\Redes y Telecomunicacion\Segundo\Programacion Visual\Segundo Parcial\Ejercicios en Visual\CLASESEXAMEN\bin\Debug\netstandard2.0\CLASESEXAMEN.dll
+C:\Users\Joss\Documents\ESPE\Redes y Telecomunicacion\Segundo\Programacion Visual\Segundo Parcial\Ejercicios en Visual\CLASESEXAMEN\bin\Debug\netstandard2.0\CLASESEXAMEN.pdb
+C:\Users\Joss\Documents\ESPE\Redes y Telecomunicacion\Segundo\Programacion Visual\Segundo Parcial\Ejercicios en Visual\CLASESEXAMEN\obj\Debug\netstandard2.0\CLASESEXAMEN.csprojAssemblyReference.cache
+C:\Users\Joss\Documents\ESPE\Redes y Telecomunicacion\Segundo\Programacion Visual\Segundo Parcial\Ejercicios en Visual\CLASESEXAMEN\obj\Debug\netstandard2.0\CLASESEXAMEN.AssemblyInfoInputs.cache
+C:\Users\Joss\Documents\ESPE\Redes y Telecomunicacion\Segundo\Programacion Visual\Segundo Parcial\Ejercicios en Visual\CLASESEXAMEN\obj\Debug\netstandard2.0\CLASESEXAMEN.AssemblyInfo.cs
+C:\Users\Joss\Documents\ESPE\Redes y Telecomunicacion\Segundo\Programacion Visual\Segundo Parcial\Ejercicios en Visual\CLASESEXAMEN\obj\Debug\netstandard2.0\CLASESEXAMEN.csproj.CoreCompileInputs.cache
+C:\Users\Joss\Documents\ESPE\Redes y Telecomunicacion\Segundo\Programacion Visual\Segundo Parcial\Ejercicios en Visual\CLASESEXAMEN\obj\Debug\netstandard2.0\CLASESEXAMEN.dll
+C:\Users\Joss\Documents\ESPE\Redes y Telecomunicacion\Segundo\Programacion Visual\Segundo Parcial\Ejercicios en Visual\CLASESEXAMEN\obj\Debug\netstandard2.0\CLASESEXAMEN.pdb
